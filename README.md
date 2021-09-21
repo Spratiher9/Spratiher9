@@ -6,8 +6,10 @@ Hiya, the name's Souvik!🐱‍💻 I'm a **Python Developer** and **Data Engine
 I also like watching anime and reading manga in my free time too. ٩(●ᴗ●)۶
 
 - Languages: Python, SQL, GoLang
-- Back-End: FastAPI, GraphQL, PostGreSQL, MongoDB
+- Back-End: FastAPI, GraphQL, PostGreSQL, MongoDB, CockroachDB, Neo4J
 - CI/CD: Azure Devops, GitHub Actions 
+- Framework: Hadoop, Apache Spark, Hive, Solace, Kafka
+- Cloud: Microsoft Azure
 
 **Scroll down!!!**
  

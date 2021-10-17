@@ -28,4 +28,5 @@ I also like watching anime and reading manga in my free time too. ٩(●ᴗ●)�
 Projects: 
 
 * Netplot🏁 : A small-lightweight 3D renderer of Tensorflow/Keras Neural Networks using only matplotlib and numpy.
+* NewNuggets📰 : A news feed web app based on Google News API and Streamlit. 
 * More things cooking..🐱‍🏍

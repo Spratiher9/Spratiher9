@@ -32,5 +32,5 @@ Projects:
 * More things cooking..🐱‍🏍
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spratiher9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=vue" alt="Souvik's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spratiher9&layout=compact&hide_border=true" alt="Top Languages" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spratiher9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite" alt="Souvik's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spratiher9&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" /></a> |
 | ------------- | ------------- |

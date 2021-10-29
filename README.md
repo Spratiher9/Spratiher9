@@ -40,4 +40,5 @@ Projects:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spratiher9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite" alt="Souvik's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spratiher9&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
-![Metrics](https://metrics.lecoq.io/spratiher9?template=classic&isocalendar=1&lines=1&traffic=1&notable=1&achievements=1&skyline=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=Asia%2FCalcutta)
+## 📊 Stats
+[![Metrics](https://github.com/Spratiher9/Spratiher9/raw/main/github-metrics.svg)](https://github.com/Spratiher9)

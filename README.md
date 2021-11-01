@@ -19,6 +19,7 @@ I have recently started working on various open source projects also. Two of the
 Download stats of some of my libraries:
 * Netplot : [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
+* SparkDataset : Download stats comming soon... 🎃
 
 **Scroll down!!!**
  
@@ -38,6 +39,7 @@ Projects:
 * Netplot🏁 : A small-lightweight 3D renderer of Tensorflow/Keras Neural Networks using only matplotlib and numpy.
 * NewNuggets📰 : A news feed web app based on Google News API and Streamlit. 
 * Seedr-Client🛸 : Asynchronous + Synchronous python wrapper of the Seedr.cc service.
+* SparkDataset📑 : Easy Instant access to over 750+ Standard datasets in the form of Spark Dataframes
 * More things cooking..🐱‍🏍
 
 

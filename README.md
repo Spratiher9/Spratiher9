@@ -12,6 +12,10 @@ I also like watching anime and reading manga in my free time too. ٩(●ᴗ●)�
 - **Cloud:** *Microsoft Azure* ☁
 - **OS:** *Ubuntu, Windows* 💻
 
+I have recently started working on various open source projects also. Two of the most notable ones are:
+- [databrickslabs/tempo](https://github.com/databrickslabs/tempo)
+- [Tanzanite-lpu/tgl-2.0](https://github.com/Tanzanite-lpu/tgl-2.0)
+
 Download stats of some of my libraries:
 * Netplot : [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)

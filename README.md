@@ -20,6 +20,7 @@ Download stats of some of my libraries:
 * Netplot : [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
 * SparkDataset : [![Downloads](https://static.pepy.tech/personalized-badge/sparkdataset?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkdataset)
+
 **Scroll down!!!**
  
 ---

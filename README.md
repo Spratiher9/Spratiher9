@@ -20,6 +20,7 @@ Download stats of some of my libraries:
 * Netplot : [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
 * SparkDataset : [![Downloads](https://static.pepy.tech/personalized-badge/sparkdataset?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkdataset)
+* Sparkora : Download stats coming soon... 😃
 
 **Scroll down!!!**
  
@@ -39,7 +40,8 @@ Projects:
 * Netplot🏁 : A small-lightweight 3D renderer of Tensorflow/Keras Neural Networks using only matplotlib and numpy.
 * NewNuggets📰 : A news feed web app based on Google News API and Streamlit. 
 * Seedr-Client🛸 : Asynchronous + Synchronous python wrapper of the Seedr.cc service.
-* SparkDataset📑 : Easy Instant access to over 750+ Standard datasets in the form of Spark Dataframes
+* SparkDataset📑 : Easy Instant access to over 750+ Standard datasets in the form of Spark Dataframes.
+* Sparkora🤖 : Powerful rapid automatic EDA and feature engineering library with a very easy to use API.
 * More things cooking..🐱‍🏍
 
 

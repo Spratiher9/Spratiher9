@@ -21,6 +21,7 @@ Download stats of some of my libraries:
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
 * SparkDataset : [![Downloads](https://static.pepy.tech/personalized-badge/sparkdataset?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkdataset)
 * Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
+* Exelog : Coming soon... 🐱‍🏍
 
 **Scroll down!!!**
  
@@ -42,6 +43,7 @@ Projects:
 * Seedr-Client🛸 : Asynchronous + Synchronous python wrapper of the Seedr.cc service.
 * SparkDataset📑 : Easy Instant access to over 750+ Standard datasets in the form of Spark Dataframes.
 * Sparkora🤖 : Powerful rapid automatic EDA and feature engineering library with a very easy to use API.
+* Exelog🩺 : Meticulous logging for Apache Spark applications end to end from driver to executors.
 * More things cooking..🐱‍🏍
 
 

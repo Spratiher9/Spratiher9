@@ -18,11 +18,11 @@ I have recently started working on various open source projects also. Two of the
 
 Download stats of some of my libraries:
 * Netplot : [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
-* SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
+* SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
 * SparkDataset : [![Downloads](https://static.pepy.tech/personalized-badge/sparkdataset?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkdataset)
-* Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
-* Exelog : [![Downloads](https://static.pepy.tech/personalized-badge/exelog?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/exelog)
-* Valido : [![Downloads](https://static.pepy.tech/personalized-badge/valido?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/valido)
+* Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
+* Exelog : [![Downloads](https://static.pepy.tech/personalized-badge/exelog?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/exelog)
+* Valido : [![Downloads](https://static.pepy.tech/personalized-badge/valido?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/valido)
 
 **Scroll down!!!**
  

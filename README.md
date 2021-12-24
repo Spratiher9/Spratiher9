@@ -21,8 +21,8 @@ Download stats of some of my libraries:
 * SeedrAPI : [![Downloads](https://static.pepy.tech/personalized-badge/seedrapi?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/seedrapi)
 * SparkDataset : [![Downloads](https://static.pepy.tech/personalized-badge/sparkdataset?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkdataset)
 * Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
-* Exelog : Pepy is down so will be coming soon... 🐱‍🏍
-* Valido : Pepy is down so will be coming soon... 🐱‍🏍
+* Exelog : [![Downloads](https://static.pepy.tech/personalized-badge/exelog?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/exelog)
+* Valido : [![Downloads](https://static.pepy.tech/personalized-badge/valido?period=month&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/valido)
 
 **Scroll down!!!**
  

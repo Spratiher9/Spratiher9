@@ -23,6 +23,7 @@ Download stats of some of my libraries:
 * Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
 * Exelog : [![Downloads](https://static.pepy.tech/personalized-badge/exelog?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/exelog)
 * Valido : [![Downloads](https://static.pepy.tech/personalized-badge/valido?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/valido)
+* Bajra : Coming soon... 🥏
 
 **Scroll down!!!**
  
@@ -46,6 +47,7 @@ Projects:
 * Sparkora🤖 : Powerful rapid automatic EDA and feature engineering library with a very easy to use API.
 * Exelog🩺 : Meticulous logging for Apache Spark applications end to end from driver to executors.
 * Valido🛠 : Pyspark dataframe based workflow validator.
+* Bajra🎲 : A no-setup plug and play raw SQL ORM for PostGreSQL and MySQL.
 * More things cooking..🐱‍🏍
 
 

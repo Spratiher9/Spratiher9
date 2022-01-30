@@ -23,7 +23,7 @@ Download stats of some of my libraries:
 * Sparkora : [![Downloads](https://static.pepy.tech/personalized-badge/sparkora?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/sparkora)
 * Exelog : [![Downloads](https://static.pepy.tech/personalized-badge/exelog?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/exelog)
 * Valido : [![Downloads](https://static.pepy.tech/personalized-badge/valido?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/valido)
-* Bajra : Coming soon... 🥏
+* Bajra : [![Downloads](https://static.pepy.tech/personalized-badge/bajra?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/bajra)
 
 **Scroll down!!!**
  

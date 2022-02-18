@@ -1,7 +1,7 @@
 *Featured on [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) README*  
 *Featured on [coderjojo/create-profile-readme](https://coderjojo.github.io/creative-profile-readme/).*
 
-Hiya, the name's Souvik!🐱‍💻 I'm a **Python Developer** and **Data Engineer** at [![mercedes_benz](https://badges.aleen42.com/src/mercedes_benz.svg)](https://www.mbrdi.co.in/). I like to develop projects that are unique and quirky.
+Hiya, the name's Souvik!🐱‍💻 I'm a **Python Developer** and **Data Engineer** at <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>. I like to develop projects that are unique and quirky.
 
 I also like watching anime and reading manga in my free time too. ٩(●ᴗ●)۶
 
